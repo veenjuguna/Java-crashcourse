@@ -14,6 +14,11 @@ public class cosolesuite {
             input = scanner.nextLine();
         }
         System.out.println("✅ Access Granted. Welcome, Ivy 💅\n");
+        System.out.println("👩‍💻  Console Suite v1.0 by Ivy Njuguna");
+        System.out.println("⚙️ Loading modules...");
+        Thread.sleep(1000);
+        System.out.println("✅ Ready.\n");
+
 
         while (keepRunning) {
             // 🧭 Main Menu
